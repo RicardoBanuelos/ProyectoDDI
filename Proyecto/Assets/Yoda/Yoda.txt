@@ -1,0 +1,20 @@
+[object],[related textures... colour,normalmap,etc]
+
+AGO_001_geo,R_ALL_12b_360_016.dds,R_ALL_12b_360_017.dds
+ATAMA_001_geo,R_ALL_12b_360_021.dds
+ATAMA_002_geo,R_ALL_12b_360_016.dds,R_ALL_12b_360_017.dds
+handNailR1_001_geo,R_ALL_12b_360_024.dds,R_ALL_12b_360_025.dds
+handNailR1_002_geo,R_ALL_12b_360_007.dds,R_ALL_12b_360_008.dds
+handNailR1_003_geo,R_ALL_12b_360_022.dds,R_ALL_12b_360_023.dds,R_ALL_12b_360_002.dds
+handNailR1_004_geo,R_ALL_12b_360_028.dds,R_ALL_12b_360_029.dds
+handNailR1_005_geo,R_ALL_12b_360_018.dds,R_ALL_12b_360_019.dds,R_ALL_12b_360_002.dds
+handNailR1_006_geo,R_ALL_12b_360_003.dds,R_ALL_12b_360_006.dds,R_ALL_12b_360_002.dds
+handNailR1_007_geo,R_ALL_12b_360_004.dds,R_ALL_12b_360_005.dds
+handNailR1_008_geo,R_ALL_12b_360_013.dds
+handNailR1_009_geo,R_ALL_12b_360_032.dds,R_ALL_12b_360_033.dds
+handNailR1_010_geo,R_ALL_12b_360_011.dds,R_ALL_12b_360_001.dds,R_ALL_12b_360_009.dds
+handNailR1_011_geo,R_ALL_12b_360_010.dds,R_ALL_12b_360_012.dds
+handNailR1_012_geo,R_ALL_12b_360_020.dds
+handNailR1_013_geo,R_ALL_12b_360_014.dds,R_ALL_12b_360_015.dds
+handNailR1_014_geo,R_ALL_12b_360_030.dds,R_ALL_12b_360_031.dds
+handNailR1_015_geo,R_ALL_12b_360_026.dds,R_ALL_12b_360_027.dds

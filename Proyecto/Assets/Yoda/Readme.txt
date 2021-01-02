@@ -1,0 +1,3 @@
+Ripped by Shadowth117 with SPD_EX. No credit needed, but big thanks to Orez for the Xbox 360 Soul Calibur 4 extractor. Only for TMR!
+
+Note: Characters and custom character parts may have what seems to be pointless monotone coloring on their textures. This was done so that the colors were customizeable. Unfortunately, this also means that there is was no way to get the original colors for each character. Because of this, you'll have to color the colorless parts of each character manually either through your material settings or the texture itself.

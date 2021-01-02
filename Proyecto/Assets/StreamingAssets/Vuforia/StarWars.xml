@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="yoda" size="15.000000 20.853659" />
+    <ImageTarget name="tie_fighter" size="15.000000 20.777779" />
+    <ImageTarget name="r2d2" size="15.000000 21.000000" />
+    <ImageTarget name="luke" size="15.000000 20.958084" />
+    <ImageTarget name="droid" size="15.000000 21.075001" />
+    <ImageTarget name="kanan_jarrus" size="15.000000 21.015762" />
+    <ImageTarget name="zeb" size="15.000000 21.040268" />
+    <ImageTarget name="blue_arc_trooper" size="15.000000 20.951742" />
+    <ImageTarget name="darth_maul" size="15.000000 21.694216" />
+    <ImageTarget name="C3PO" size="15.000000 20.000000" />
+  </Tracking>
+</QCARConfig>
