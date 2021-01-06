@@ -68,5 +68,11 @@ public class Command : MonoBehaviour
             if(gameObject != null)
                 gameObject.GetComponent<AudioPlayer>().playAudio();
         }
+        else if(command.Equals("battle droid") || command.Equals("droid"))
+        {
+            GameObject gameObject = GameObject.FindWithTag("droid");
+            if(gameObject != null)
+                gameObject.GetComponent<AudioPlayer>().playAudio();
+        }
     }
 }
